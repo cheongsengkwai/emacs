@@ -1,0 +1,22 @@
+dd
+ls
+clear
+ls
+rm #init-base.el
+ls
+rm #init-base.el#
+(random 100)
+(random 100)
+(random 100)
+(write-line "Hello World")
+(+ 1 2)
+(- 3 2)
+ls
+ls
+lsd
+(ramdom 10)
+(remdom 10)
+(random 10)
+(random 10)
+(random 10)
+(random 10)
